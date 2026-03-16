@@ -69,7 +69,7 @@ const Page = () => {
             <span className="font-semibold">
               {locationLoading ? "Detecting location..." : userLocation}
             </span>
-            . If this was you, please verify your security word to continue
+            . If this was you, please verify to continue
             using your account without interruption.
           </p>
 
